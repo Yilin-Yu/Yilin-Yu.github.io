@@ -1,11 +1,11 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
-avatar: /avatar.jpeg
+title: YYL
+description: yyl is working ....
+url: https://yilin-yu.github.io/
+avatar: /avatar.jpg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /bg.jpg
 
 # Gems
 plugins:
@@ -26,17 +26,14 @@ exclude:
   - README.md
   - scripts/
   - not-pure-poole.gemspec
+  - vendor
 
 # Optimize Jekyl SEO Tag
-twitter:
-  username: vszhub
-  card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Yilin
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://github.com/Yilin-Yu
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +51,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Yilin Yu
+  url: https://github.com/Yilin-Yu
+  email: yylisyyl@gmail.com
